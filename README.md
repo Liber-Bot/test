@@ -7,32 +7,32 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ************************************************************************
 حالا کد های زیر رو کپی کنید و بزنید.
 **********************************************************
-cd $HOME && git clone https://github.com/telebombang2018/energy && cd energy && chmod +x energy.sh && ./energy.sh install && ./energy.sh
+cd $HOME && git clone https://github.com/Liber-Bot/test.git && cd test && chmod +x test.sh && ./test.sh install && ./test.sh
 ************************************************************
 برای نصب اتولانچ جهت جلوگیری از خاموش شدن ربات کد های زیر رو به ترتیب داخل ترمینال بزنید.
 ***************************************************
-cd energy 
+cd test
 ***************************************************
-chmod +x autoenergy.sh 
+chmod +x autotest.sh 
 ****************************************************************
 chmod +x auto.sh
 ***************************************************************
-screen ./autoenergy.sh
+screen ./autotest.sh
 ************************************************
 خب حالا ترمینالو ببند و کد های زیر رو بزن دوباره
 *****************************************************
 killall screen
 **********************************************************
-cd energy && chmod +x autoenergy.sh && screen ./autoenergy.sh 
+cd test && chmod +x autotest.sh && screen ./autotest.sh 
 ************************************************************
 در صورت خاموش شدن دو کد زیر رو به ترتیب تو ترمینال بزنید.
 *********************************************
 killall screen
 *******************************************************
-cd energy && chmod +x autoenergy.sh && screen ./autoenergy.sh 
+cd test && chmod +x autotest.sh && screen ./autotest.sh 
 **************************************************************
 در کانال ما عضو باشین و اپدیت ها و اموزش هارو دریافت کنید
-@RICHENERGY
-@richenergy
+@LiberBotTeam
+
 *****************************************************************
 
